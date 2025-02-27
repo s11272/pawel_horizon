@@ -16,7 +16,7 @@ export interface SiteDataProps {
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Horizon Photography",
+	name: "Paweł Woźniak Photografia",
 	// Your website's title and description (meta fields)
 	title: "Horizon - a beautiful photography website template made with Astro and Tailwind CSS",
 	description:
