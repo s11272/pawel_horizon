@@ -18,11 +18,11 @@ const navConfig: navItem[] = [
 		link: "/",
 	},
 	{
-		text: "portfolios",
+		text: "portfolio",
 		link: "/portfolio",
 	},
 	{
-		text: "Pricing",
+		text: "cennik",
 		link: "/#pricing",
 	},
 	{
