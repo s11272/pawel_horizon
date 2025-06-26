@@ -22,8 +22,8 @@ const navConfig: navItem[] = [
 		link: "/portfolio",
 	},
 	{
-		text: "cennik",
-		link: "/#pricing",
+		text: "kontakt",
+		link: "/#contact",
 	}
 ];
 
